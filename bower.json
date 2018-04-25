@@ -1,8 +1,8 @@
 {
-  "name": "tekbooks",
-  "description": "Simple technology book store",
+  "name": "Tech-Knowledge",
+  "description": "Ultimate Technology Book Store",
   "main": "index.js",
-  "author": "Brad Traversy",
+  "author": "Karim Shakir",
   "moduleType": [
     "amd"
   ],
